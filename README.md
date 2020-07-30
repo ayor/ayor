@@ -1,4 +1,4 @@
-![Github Logo](images/logo.PNG)
+(images/logo.PNG)
 
 #__Hello there 👋__, 
 *I am Ayomide a software developer and i build cool frontend web applications with the following
