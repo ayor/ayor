@@ -1,5 +1,12 @@
 ### Hi there 👋
-
+![Github Logo](images/logo.png)
+#__Hello there__, 
+##*I am Ayomide a software developer and i build cool frontend web applications*
+**Some tools i use include**
+* React
+* Vue 
+* Bootstrap
+* C# and the .NetCore Framework.
 <!--
 **ayor/ayor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
