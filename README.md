@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Github Logo](images/logo.png)
+![Github Logo](images/logo.PNG)
 #__Hello there__, 
 ##*I am Ayomide a software developer and i build cool frontend web applications*
 **Some tools i use include**
